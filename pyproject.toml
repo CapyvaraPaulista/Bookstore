@@ -12,6 +12,7 @@ django-rest-framework = "^0.1.0"
 factory-boy = "^3.3.3"
 pytest = "^9.0.2"
 django-extensions = "^4.1"
+django-debug-toolbar = "^6.2.0"
 
 
 [tool.poetry.group.dev.dependencies]
