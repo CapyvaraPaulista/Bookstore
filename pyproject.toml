@@ -13,6 +13,8 @@ factory-boy = "^3.3.3"
 pytest = "^9.0.2"
 django-extensions = "^4.1"
 django-debug-toolbar = "^6.2.0"
+psycopg2-binary = "^2.9.11"
+flake8 = "^7.3.0"
 
 
 [tool.poetry.group.dev.dependencies]
